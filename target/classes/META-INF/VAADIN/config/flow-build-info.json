@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\Deathstar\\eclipse-workspace\\Employee-Management-System",
+  "generatedFolder": "C:\\Users\\Deathstar\\eclipse-workspace\\Employee-Management-System\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Deathstar\\eclipse-workspace\\Employee-Management-System\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
